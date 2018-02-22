@@ -22,7 +22,7 @@ exclude:
 
 parameters:
   # Cloud Environment
-  data_dir: /public/toxic_comments
+  data_dir: /input/
   experiment_dir: /output/trained_pipelines/glove_lstm
   embedding_filepath: /public/models/glove/glove.840B.300d.txt
   # Local Environment
