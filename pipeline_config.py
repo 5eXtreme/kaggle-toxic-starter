@@ -1,4 +1,5 @@
 import os
+!pip install attrdict
 
 from attrdict import AttrDict
 from deepsense import neptune
